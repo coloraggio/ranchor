@@ -1,0 +1,8 @@
+{
+  "name": "ranchor",
+  "version": "0.0.0",
+  "main": "ranchor.js",
+  "author": "coloraggio",
+  "repository": "coloraggio/ranchor",
+  "license": "MIT"
+}
